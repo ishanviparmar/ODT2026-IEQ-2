@@ -1,10 +1,16 @@
 **Project Title**
 
-[Enter your project name here]
+Project Title: IEQ²: Emotionally Intelligent Maze Navigator
+
 
 **📌 Project Overview**
+IEQ² is a compact, autonomous robot designed to navigate complex mazes while
+interpreting environmental cues, specifically colored lights, as emotional states. Using
+sensors to detect light wavelengths, the robot maps these to a predefined emotion palette
+(e.g., red = anger/frustration), adapting its pathfinding strategy to "feel" and respond to the
+maze's "mood."
 
-[Provide a short description of your project]
+The maze will stand as a separate cirquit and display sections as emotions with the help of lights.
 
 
 **📂 Repository Structure**
